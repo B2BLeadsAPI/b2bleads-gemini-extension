@@ -1,7 +1,7 @@
 {
   "name": "b2bleads",
-  "version": "1.0.0",
-  "description": "Search and enrich B2B business contacts (name, address, phone, website, email) by industry, location, and company size.",
+  "version": "1.1.0",
+  "description": "Search and enrich B2B business contacts (name, address, phone, website, email) by industry, location, and company size. Includes a standalone find_email lookup tool.",
   "mcpServers": {
     "b2bleads": {
       "httpUrl": "https://api.b2bleadsapi.com/mcp"
