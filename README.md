@@ -14,6 +14,7 @@ gemini extensions install https://github.com/B2BLeadsAPI/b2bleads-gemini-extensi
 - `list_industries` — list supported industry values
 - `list_saved_lists` — list this account's saved lead lists
 - `get_saved_list` — get the leads saved in a specific list
+- `find_email` — look up a best-effort contact email for a single business website (Business/Premium plan required)
 
 ## Authentication
 
