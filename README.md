@@ -11,6 +11,7 @@ gemini extensions install https://github.com/B2BLeadsAPI/b2bleads-gemini-extensi
 ## Tools
 
 - `search_leads` — find business leads by industry, location, and company size
+- `search_leads_advanced` — ⚠️ elevated cost (9x quota): exhaustively cover a whole city, up to ~180 results
 - `list_industries` — list supported industry values
 - `list_saved_lists` — list this account's saved lead lists
 - `get_saved_list` — get the leads saved in a specific list
